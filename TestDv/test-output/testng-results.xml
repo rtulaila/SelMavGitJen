@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8353" started-at="2021-01-01T15:24:14 EST" finished-at="2021-01-01T15:24:23 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8353" started-at="2021-01-01T15:24:14 EST" finished-at="2021-01-01T15:24:23 EST">
+      <class name="com.dv.testcases.dvtest">
+        <test-method status="PASS" signature="verifyTest()[pri:0, instance:com.dv.testcases.dvtest@3dd4520b]" name="verifyTest" duration-ms="8258" started-at="2021-01-01T15:24:15 EST" finished-at="2021-01-01T15:24:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTest -->
+      </class> <!-- com.dv.testcases.dvtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
