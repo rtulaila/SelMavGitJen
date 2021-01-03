@@ -18,14 +18,12 @@ public class dvtest {
 		driver.get("https://www.google.ca/");
 		
 		System.out.println("===============================");
-		System.out.println("                               ");  
 		System.out.println("Chrome Driver Connected");
 		System.out.println("Opened GOOGLE");
 		System.out.println("Getting Title");
 		System.out.println(driver.getTitle());
 		System.out.println("Got Title");
 		System.out.println(driver.getTitle());
-		System.out.println("                               ");  
 		System.out.println("===============================");
 				
 		driver.quit();
